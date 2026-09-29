@@ -1,1 +1,5 @@
-*
+ecommerce.db
+output/
+__pycache__/
+*.pyc
+pyvenv.cfg*
