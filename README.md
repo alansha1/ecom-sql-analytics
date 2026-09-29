@@ -49,7 +49,7 @@ products      → product_id, name, category, unit_price
 orders        → order_id, customer_id, order_date, status
 order_items   → item_id, order_id, product_id, quantity, unit_price
 ```
-
+![Architecture Diagram](arch_ecom_sql.png)
 ---
 
 ## How to Run
